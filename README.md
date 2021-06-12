@@ -1,1 +1,2 @@
 # Length-of-numder-sequence
+Given a file of integers. Allows to create a new integer file containing the lengths of all series of the source file (a series is a set of consecutive identical elements, and the length of a series is the number of these elements). For example, for the source file with elements 1, 5, 5, 5, 4, 4, 5. The contents of the resulting file should be as follows: 1, 3, 2, 1. Output the result to a file with the same name as the source, but with the extension ".out". 
